@@ -1,1 +1,2 @@
 # Time-Series-Analysis
+In this project it will be predicted future house prices in New York, by using data from the Federal Reserve along with house price data from Zillow, through merging and combining this data, then using it to train a random forest model, which will predict if the house prices will increase or decrease in the future. The error will be measured by using backtesting, then improving the model with new predictors.
